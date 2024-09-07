@@ -1,0 +1,3 @@
+- 👋 Hi, I’m HARISH HASEEB
+- 👀 I’m interested in DATA ANALYST
+- 🌱 I’m currently learning SQL/PYTHON/POWER BI
